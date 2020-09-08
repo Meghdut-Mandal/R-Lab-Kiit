@@ -1,5 +1,8 @@
 # R-Lab-Kiit
-A repo of R code 
+A repository for maintaining and collaborating on R Code of Advanced Programing Lab. 
+![R Lang](https://miro.medium.com/max/700/1*ZD3KZIlKNZtgVKw-3JFUwQ.jpeg)
+
+
 <h1>Questions</h1>	
 <p>
 <h6>Lab2</h6>
