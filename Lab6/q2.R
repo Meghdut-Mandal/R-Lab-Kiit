@@ -1,7 +1,3 @@
-# Title     : TODO
-# Objective : TODO
-# Created by: KIIT
-# Created on: 9/29/2020
 
 players <- data.frame(
   player_no = c(1:5),
