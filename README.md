@@ -64,3 +64,10 @@ Q1. Implement Queue  in R . Create functions for implementing various operations
 3- Write an R-script to initialize two vectors with 1s and 0s. Now perform AND operation with two vectors.<br>
 4- Write an R-script to enter the elements of a vector from the keyboard and sort the elements of vector in ascending order.<br>
 </p>
+<h3>Lab6</h3>
+<p>
+Q1-Write an R-script to create a Player data frame having the fields player_no, name, age, 	profession and grade with 5 records. Now display all the players details, also display the 	structure and summary of that data frame.<br>
+Q2- Write an R-script to retrieve and display only the name and grade of the Player data frame.<br>
+Q3- Write an R-script to extract the first 3 rows from the Player data frame.<br>
+Q4- Write an R-script to extract 2nd and 5th row with 1st and 3rd column from the Player data frame<br>
+</p>
