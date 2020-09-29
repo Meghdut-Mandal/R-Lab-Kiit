@@ -1,4 +1,4 @@
-housingdata <- read.csv("Boston.csv")
+housingdata <- read.csv("lab6/Boston.csv")
 print(is.data.frame(housingdata))
 print(housingdata)
 
