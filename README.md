@@ -71,3 +71,8 @@ Q2- Write an R-script to retrieve and display only the name and grade of the Pla
 Q3- Write an R-script to extract the first 3 rows from the Player data frame.<br>
 Q4- Write an R-script to extract 2nd and 5th row with 1st and 3rd column from the Player data frame<br>
 </p>
+<h3>Lab 7</h3>
+<p>
+Q1. Write an R-script to add a new column as DOB with all the values in Player data frame(which was given in the last class). Now 	display the updated data frame.
+Q2. Write an R-script to append 2 new rows to the Player data frame then display the updated data frame.
+</p>
