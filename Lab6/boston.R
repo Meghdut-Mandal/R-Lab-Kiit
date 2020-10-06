@@ -1,7 +1,6 @@
 housingdata <- read.csv("lab6/Boston.csv")
-print(is.data.frame(housingdata))
-print(housingdata)
+#print(housingdata)
 
 
-str(housingdata)
+#str(housingdata)
 summary(housingdata)
