@@ -5,5 +5,6 @@
 
 data <- read.csv('Lab8/data.csv')
 png('Lab8/chat.jpg')
-plot(data$High,type = "o", col = "red", xlab = "Open", ylab = "Close",main = "Rain fall chart")
+plot(data$Open,type = "o", col = "red", xlab = "Open", ylab = "Close",main = "Chart")
+lines(data$Close, type = "o", col = "blue")
 dev.off();
