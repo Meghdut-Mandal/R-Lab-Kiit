@@ -4,6 +4,8 @@
 # Created on: 13-10-2020
 
 data <- read.csv('Lab8/data.csv')
-png('Lab8/chat.jpg')
-plot(data$High,type = "o", col = "red", xlab = "Open", ylab = "Close",main = "Rain fall chart")
-dev.off();
+data[data == "null"] <- NA
+png('Lab8/infosys.jpg')
+plot(data$Open,type = "o", col = "blue", xlab = "Index", ylab = "Open/Close",main = "Stock Price")
+lines(data$Close, type = "o", col ="red")
+dev.off()
