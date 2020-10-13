@@ -71,3 +71,18 @@ Q2- Write an R-script to retrieve and display only the name and grade of the Pla
 Q3- Write an R-script to extract the first 3 rows from the Player data frame.<br>
 Q4- Write an R-script to extract 2nd and 5th row with 1st and 3rd column from the Player data frame<br>
 </p>
+
+<h3>Lab7</h3>
+<p>
+Q1. Write an R-script to add a new column as DOB with all the values in Player data frame(which was given in the last class). Now display the updated data frame.<br>
+Q2. Write an R-script to append 2 new rows to the Player data frame then display the updated data frame.
+<br>
+</p>
+
+<h3>Lab8</h3>
+<p>
+https://query1.finance.yahoo.com/v7/finance/download/INFY.NS?period1=1570939231&period2=1602561631&interval=1d&events=history&includeAdjustedClose=true<br>
+Assignment Create the Line Plot on data from the link ablove.<br>
+Q1.Plot 2 columns in i.e. "Open" in blue colour and "Close" in red colour.
+<br>
+</p>
