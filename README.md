@@ -81,5 +81,5 @@ Q2. Write an R-script to append 2 new rows to the Player data frame then display
 https://query1.finance.yahoo.com/v7/finance/download/INFY.NS?period1=1570939231&period2=1602561631&interval=1d&events=history&includeAdjustedClose=true<br>
 Assignment Create the Line Plot on data from the link ablove.<br>
 Q1.Plot 2 columns in i.e. "Open" in blue colour and "Close" in red colour.
-<img src="Lab8/chat.jpg">
+<img src="Lab8/infosys.jpg">
 <br>
